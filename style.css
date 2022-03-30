@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=League+Gothic&family=Smooch+Sans:wght@300&family=Syne+Mono&display=swap');
+
+/* font-family: 'Hubballi', cursive;
+
+font-family: 'League Gothic', sans-serif;
+
+font-family: 'Smooch Sans', sans-serif;
+
+font-family: 'Syne Mono', monospace; */
+
+.ff_hubballi {
+    font-family: 'Hubballi', cursive;
+}
+
+.ff_league-gothic {
+    font-family: 'League Gothic', sans-serif;
+}
+
+.ff_smooch-sans {
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+.ff_Syne-Mono {
+    font-family: 'Syne Mono', monospace;
+}
